@@ -4,4 +4,4 @@ https://jijuuhuju.github.io/example/
 もし例のドメインが必要なら
 https://example.com/
 をご利用ください
-[![ロゴ](images/streech.svg)]([https://example.com](https://jijuuhuju.github.io/Streech-home/))
+![example](Example.png)

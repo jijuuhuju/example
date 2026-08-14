@@ -4,4 +4,4 @@ https://jijuuhuju.github.io/example/
 もし例のドメインが必要なら
 https://example.com/
 をご使用ください
-![example](Example.png)
+![example](example.com/Example.png)
